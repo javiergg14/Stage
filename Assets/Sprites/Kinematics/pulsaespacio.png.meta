@@ -1,0 +1,624 @@
+fileFormatVersion: 2
+guid: 780bdbfcf3ac3624c8b7273723c60244
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3711758922417479404
+    second: pulsaespacio_0
+  - first:
+      213: -6867358226859597100
+    second: pulsaespacio_1
+  - first:
+      213: -5947972244082462345
+    second: pulsaespacio_2
+  - first:
+      213: 4164947976871051857
+    second: pulsaespacio_3
+  - first:
+      213: -8359254699888939932
+    second: pulsaespacio_4
+  - first:
+      213: -4984376321742896751
+    second: pulsaespacio_5
+  - first:
+      213: -2635679999024918
+    second: pulsaespacio_6
+  - first:
+      213: -7882140998138692190
+    second: pulsaespacio_7
+  - first:
+      213: 7118392762722168237
+    second: pulsaespacio_8
+  - first:
+      213: -8848534560012836589
+    second: pulsaespacio_9
+  - first:
+      213: -3555957035474631605
+    second: pulsaespacio_10
+  - first:
+      213: -570267262778848778
+    second: pulsaespacio_11
+  - first:
+      213: -8547451097216257815
+    second: pulsaespacio_12
+  - first:
+      213: 4119412085006226324
+    second: pulsaespacio_13
+  - first:
+      213: 4984034025212885137
+    second: pulsaespacio_14
+  - first:
+      213: -8588090458674523559
+    second: pulsaespacio_15
+  - first:
+      213: 6170481728211156071
+    second: pulsaespacio_16
+  - first:
+      213: -590553958756841636
+    second: pulsaespacio_17
+  - first:
+      213: 2315573696969351556
+    second: pulsaespacio_18
+  - first:
+      213: 737828411861911939
+    second: pulsaespacio_19
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pulsaespacio_0
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 57
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cee949ef211d28330800000000000000
+      internalID: 3711758922417479404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pulsaespacio_1
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 57
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d26da6d31e32b0a0800000000000000
+      internalID: -6867358226859597100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pulsaespacio_2
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 57
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 771f499f1ce847da0800000000000000
+      internalID: -5947972244082462345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pulsaespacio_3
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 57
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 152816d3e1edcc930800000000000000
+      internalID: 4164947976871051857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pulsaespacio_4
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 57
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46cea12c326fdfb80800000000000000
+      internalID: -8359254699888939932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pulsaespacio_5
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 57
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19185abc420f3dab0800000000000000
+      internalID: -4984376321742896751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pulsaespacio_6
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 57
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae0aaedecd2a6fff0800000000000000
+      internalID: -2635679999024918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pulsaespacio_7
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 57
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ad766806820d9290800000000000000
+      internalID: -7882140998138692190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pulsaespacio_8
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 57
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dad24c9b08c99c260800000000000000
+      internalID: 7118392762722168237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pulsaespacio_9
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 57
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 311eaaff2b0b33580800000000000000
+      internalID: -8848534560012836589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pulsaespacio_10
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 57
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b44cbff9ae3b6aec0800000000000000
+      internalID: -3555957035474631605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pulsaespacio_11
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 57
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f9480722f00618f0800000000000000
+      internalID: -570267262778848778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pulsaespacio_12
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 57
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e0f66f638a516980800000000000000
+      internalID: -8547451097216257815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pulsaespacio_13
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 57
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4935f3a37771b2930800000000000000
+      internalID: 4119412085006226324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pulsaespacio_14
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 57
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19836451a88da2540800000000000000
+      internalID: 4984034025212885137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pulsaespacio_15
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 57
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95298cfba39f0d880800000000000000
+      internalID: -8588090458674523559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pulsaespacio_16
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 57
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76c701f6074f1a550800000000000000
+      internalID: 6170481728211156071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pulsaespacio_17
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 57
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c57099bad4eedc7f0800000000000000
+      internalID: -590553958756841636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pulsaespacio_18
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 57
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 481a81b4202922020800000000000000
+      internalID: 2315573696969351556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pulsaespacio_19
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 57
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 389483a080b4d3a00800000000000000
+      internalID: 737828411861911939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      pulsaespacio_0: 3711758922417479404
+      pulsaespacio_1: -6867358226859597100
+      pulsaespacio_10: -3555957035474631605
+      pulsaespacio_11: -570267262778848778
+      pulsaespacio_12: -8547451097216257815
+      pulsaespacio_13: 4119412085006226324
+      pulsaespacio_14: 4984034025212885137
+      pulsaespacio_15: -8588090458674523559
+      pulsaespacio_16: 6170481728211156071
+      pulsaespacio_17: -590553958756841636
+      pulsaespacio_18: 2315573696969351556
+      pulsaespacio_19: 737828411861911939
+      pulsaespacio_2: -5947972244082462345
+      pulsaespacio_3: 4164947976871051857
+      pulsaespacio_4: -8359254699888939932
+      pulsaespacio_5: -4984376321742896751
+      pulsaespacio_6: -2635679999024918
+      pulsaespacio_7: -7882140998138692190
+      pulsaespacio_8: 7118392762722168237
+      pulsaespacio_9: -8848534560012836589
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
